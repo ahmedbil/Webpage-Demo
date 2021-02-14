@@ -1,0 +1,51 @@
+ <!DOCTYPE html>
+ <html lang="en">
+
+   <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+     <link rel="stylesheet" href="css/style.css">
+     <link rel="stylesheet" href="css/menu.css">
+     <title>Hamburger Menu Overlay</title>
+   </head>
+
+   <body>
+
+     <div class="menu-wrap">
+       <input type="checkbox" class="toggler">
+       <div class="hamburger">
+         <div></div>
+       </div>
+       <div class="menu">
+         <div>
+           <div>
+             <ul>
+               <li><a href="#">Home</a></li>
+               <li><a href="#">About</a></li>
+               <li><a href="#">Services</a></li>
+               <li><a href="#">Contact</a></li>
+             </ul>
+           </div>
+         </div>
+       </div>
+     </div>
+
+     <header class="showcase">
+       <div class="container showcase-inner">
+         <h1> </h1>
+         <h1> </h1>
+
+         <h1>Interactive Concert Experience</h1>
+         <p>
+           Experience your favourite artists like never</p>
+         <p>
+           before and from the comfort of your own home
+         </p>
+         <a class="gradient-button gradient-button-1" href="html/pricing.html">Try it now</a><br />
+       </div>
+     </header>
+   </body>
+
+ </html>
